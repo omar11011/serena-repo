@@ -1,0 +1,23 @@
+{
+  "name": "serena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "Omar Atarama Chanduví",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "megadb": "^3.4.0",
+    "mysql2": "^2.1.0",
+    "node-env-file": "^0.1.8",
+    "nodemon": "^2.0.4",
+    "sequelize": "^6.3.3",
+    "tenorjs": "^1.0.7"
+  }
+}
